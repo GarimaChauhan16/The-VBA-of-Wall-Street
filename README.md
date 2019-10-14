@@ -2,9 +2,7 @@
 
 ## Background
 
-The objective of this project is to use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA.
-
-### Stock market analyst
+The objective of this project is to use VBA scripting to analyze real stock market data. 
 
 ![stock Market](Images/stockmarket.jpg)
 
